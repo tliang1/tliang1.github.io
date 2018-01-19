@@ -1,0 +1,17 @@
+﻿body {
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto Slab', serif;
+}
+
+#copyright_text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+}

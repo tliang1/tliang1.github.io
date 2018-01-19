@@ -1,0 +1,16 @@
+﻿.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#about_container {
+    margin-top: 56px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#copyright_text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+}

@@ -1,0 +1,20 @@
+﻿.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#project_container {
+    margin-top: 56px;
+}
+
+h4, h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#copyright_text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+}
